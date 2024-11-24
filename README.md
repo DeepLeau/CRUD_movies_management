@@ -19,7 +19,7 @@ A simple RESTful API built with Go and the Gorilla Mux package to manage a colle
 
 1. Clone the repository:
    ```bash
-   git clone github.com/DeepLeau/CRUD_movies_management
+   git clone https://github.com/DeepLeau/CRUD_movies_management
    ```
 2. Navigate to the project directory:
    ```bash
